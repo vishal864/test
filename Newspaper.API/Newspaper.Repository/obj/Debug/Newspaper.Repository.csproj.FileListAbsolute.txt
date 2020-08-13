@@ -1,0 +1,4 @@
+D:\Dotnet\Newspaper.API\Newspaper.Repository\bin\Debug\Newspaper.Repository.dll
+D:\Dotnet\Newspaper.API\Newspaper.Repository\bin\Debug\Newspaper.Repository.pdb
+D:\Dotnet\Newspaper.API\Newspaper.Repository\obj\Debug\Newspaper.Repository.dll
+D:\Dotnet\Newspaper.API\Newspaper.Repository\obj\Debug\Newspaper.Repository.pdb
